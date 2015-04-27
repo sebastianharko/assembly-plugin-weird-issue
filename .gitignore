@@ -1,0 +1,9 @@
+/.idea/
+/project/boot/
+/project/plugins/project
+target/
+*.iml
+*.ipl
+*log
+mem/
+.DS_Store
